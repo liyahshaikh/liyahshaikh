@@ -16,4 +16,7 @@ I am Aliya Shaikh! A CSE Undergrad and a budding Full-stack developer!
 [![Aliya's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyahshaikh&count_private=true&show_icons=true&theme=dracula)](https://github.com/liyahshaikh/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liyahshaikh&layout=compact&count_private=true&theme=dracula))](https://github.com/liyahshaikh/github-readme-stats)
+
+
 
