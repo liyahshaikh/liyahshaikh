@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Aliya Shaikh! A Software Engineer @D.E. Shaw and Co and a budding Full-stack developer!
+I'm Aliya Shaikh! A Senior Software Engineer @D.E. Shaw and Co and a budding Full-stack developer!
 
 <a href="https://aliyashaikh.netlify.app">
 <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge" />
